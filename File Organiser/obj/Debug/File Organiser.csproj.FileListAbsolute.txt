@@ -1,0 +1,10 @@
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\bin\Debug\File Organiser.exe.config
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\bin\Debug\File Organiser.exe
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\bin\Debug\File Organiser.pdb
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\obj\Debug\File Organiser.csproj.AssemblyReference.cache
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\obj\Debug\File_Organiser.Form1.resources
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\obj\Debug\File_Organiser.Properties.Resources.resources
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\obj\Debug\File Organiser.csproj.GenerateResource.cache
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\obj\Debug\File Organiser.csproj.CoreCompileInputs.cache
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\obj\Debug\File Organiser.exe
+C:\Users\Oliver Zygo\Desktop\File Organiser\File Organiser\obj\Debug\File Organiser.pdb
